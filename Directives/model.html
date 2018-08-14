@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <div id="example">
+            <input v-model="message">
+            <p>Message is: {{ message }}</p>
+        </div>
+        <script src="http://unpkg.com/vue"></script>
+        <script>
+            new Vue({
+                el: "#example",
+                data: { message: 'Hello Brian' }
+            })
+        </script>
+    </body>
+</html>
