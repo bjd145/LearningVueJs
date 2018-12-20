@@ -17,6 +17,9 @@
 ## Directives 
 * Serveral examples of Vue.js Directives 
 
+## Axios
+* A copy of Vue's Example on how to use Axios to call remote REST APIs
+
 ## Create Vue + TypeScript Project
 * vue create typescript
     * Follow wizard to select components - TypeScript, PWA Support and Linter
